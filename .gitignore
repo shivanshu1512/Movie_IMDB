@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Large Data Files — use dataset/README.md to download
+*.csv
+*.tsv
+*.zip
+*.gz
+*.parquet
+
+# Model files (can be large)
+*.pkl
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
